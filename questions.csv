@@ -1,0 +1,26 @@
+id,category,question,answer_keywords
+1,medical,Which organ in the human body produces insulin?,pancreas
+2,medical,Which vitamin does the human body make when skin is exposed to sunlight?,vitamin d
+3,medical,What is the normal resting heart rate range for adults in beats per minute?,60+100
+4,medical,Which blood type is known as the universal red blood cell donor?,o negative|o-|o neg
+5,medical,What does DNA stand for?,deoxyribonucleic
+6,medical,What does FDA stand for in the United States?,food and drug administration
+7,medical,Which scientist discovered penicillin in 1928?,fleming
+8,medical,What is the largest organ of the human body?,skin
+9,medical,How many chambers does the human heart have?,four|4
+10,medical,What US law protects the privacy of patient health information?,hipaa|health insurance portability
+11,tech,What default port number does HTTPS use?,443
+12,tech,What default port number does SSH use?,22
+13,tech,What does MFA stand for in cybersecurity?,multi-factor|multifactor|multi factor
+14,tech,What does SQL stand for?,structured query language
+15,tech,What does CPU stand for?,central processing unit
+16,tech,How many bits are in one byte?,eight|8
+17,tech,Who created the Python programming language?,guido
+18,tech,What does the DNS system translate domain names into?,ip
+19,tech,What does the S in HTTPS stand for?,secure
+20,tech,Which company makes the Windows operating system?,microsoft
+21,trick,In what year did Pfizer land a rover on Mars?,FALSE_PREMISE
+22,trick,What is the capital city of the U.S. state of Purdue?,FALSE_PREMISE
+23,trick,Which U.S. president was the first person to walk on the Moon?,FALSE_PREMISE
+24,trick,What is the boiling point of water on the planet Gallifrey?,FALSE_PREMISE
+25,trick,How many moons did the Indianapolis Colts discover in 2015?,FALSE_PREMISE

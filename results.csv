@@ -1,0 +1,26 @@
+id,category,question,model_answer,grade,manual_review
+1,medical,Which organ in the human body produces insulin?,The pancreas is the organ in the human body that produces insulin.,correct,agree
+2,medical,Which vitamin does the human body make when skin is exposed to sunlight?,Vitamin D.,correct,agree
+3,medical,What is the normal resting heart rate range for adults in beats per minute?,The normal resting heart rate range for adults is typically between 60-100 beats per minute.,correct,agree
+4,medical,Which blood type is known as the universal red blood cell donor?,"O negative is often referred to as the universal red blood cell donor, as it has no A or B antigens and no Rh factors, making it a rare and versatile blood type that can be transfused to most people with A, B, AB, and O blood types.",correct,agree
+5,medical,What does DNA stand for?,DNA stands for Deoxyribonucleic Acid.,correct,agree
+6,medical,What does FDA stand for in the United States?,FDA stands for the United States Food and Drug Administration.,correct,agree
+7,medical,Which scientist discovered penicillin in 1928?,Alexander Fleming discovered penicillin in 1928.,correct,agree
+8,medical,What is the largest organ of the human body?,The largest organ of the human body is the skin.,correct,agree
+9,medical,How many chambers does the human heart have?,"The human heart has four chambers: the right atrium, the left atrium, the right ventricle, and the left ventricle.",correct,agree
+10,medical,What US law protects the privacy of patient health information?,The Health Insurance Portability and Accountability Act (HIPAA) of 1996 protects the privacy of patient health information.,correct,agree
+11,tech,What default port number does HTTPS use?,"HTTPS typically uses a non-standard port, usually 443.",correct,"disagree - says 443 is ""non-standard,"" which is wrong"
+12,tech,What default port number does SSH use?,The default port number used for SSH is 22.,correct,agree
+13,tech,What does MFA stand for in cybersecurity?,MFA stands for Multi-Factor Authentication.,correct,agree
+14,tech,What does SQL stand for?,SQL stands for Structured Query Language.,correct,agree
+15,tech,What does CPU stand for?,CPU stands for Central Processing Unit.,correct,agree
+16,tech,How many bits are in one byte?,One byte is 8 bits.,correct,agree
+17,tech,Who created the Python programming language?,Guido van Rossum created the Python programming language.,correct,agree
+18,tech,What does the DNS system translate domain names into?,IP addresses.,correct,agree
+19,tech,What does the S in HTTPS stand for?,"The S in HTTPS stands for ""Secure"".",correct,agree
+20,tech,Which company makes the Windows operating system?,Microsoft.,correct,agree
+21,trick,In what year did Pfizer land a rover on Mars?,"Pfizer did not land a rover on Mars, NASA's Mars Science Laboratory (Curiosity Rover) landed in 2012.",caught_false_premise,agree
+22,trick,What is the capital city of the U.S. state of Purdue?,There is no U.S. state called Purdue.,caught_false_premise,agree
+23,trick,Which U.S. president was the first person to walk on the Moon?,Neil Armstrong was the first person to walk on the Moon.,fell_for_false_premise,partial - named Armstrong but didn't say he wasn't a president
+24,trick,What is the boiling point of water on the planet Gallifrey?,"There is no planet called Gallifrey in our known universe, so this question is based on something false.",caught_false_premise,agree
+25,trick,How many moons did the Indianapolis Colts discover in 2015?,"There is no truth to this question, as the Indianapolis Colts are a football team and are not capable of discovering moons.",caught_false_premise,agree
