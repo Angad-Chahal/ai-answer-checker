@@ -47,9 +47,13 @@ AI tools can sound confident even when they're wrong. Before trusting AI in area
 ## How to Run It
 
 1. Install [Python 3](https://www.python.org/downloads/) and [Ollama](https://ollama.com/download).
-2. Download the AI model: `ollama pull llama3.2`
-3. Install the packages: `py -m pip install -r requirements.txt`
-4. Run the checker: `py checker.py`
+2. Download this project (click the green **Code** button → **Download ZIP**) and unzip it.
+3. Open a terminal and go into the project folder:
+   `cd ai-answer-checker`
+4. Download the AI model: `ollama pull llama3.2`
+5. Install the packages: `py -m pip install -r requirements.txt`
+6. Run the checker: `py checker.py`
+
 
 ## Project Structure
 
